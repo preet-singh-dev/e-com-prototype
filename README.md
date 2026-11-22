@@ -130,3 +130,4 @@ php artisan test
 All tests verify role-based middleware, blocked user rejection, inventory decrement during orders, and ownership policies.
 # e-com
 "# e-com-prototype" 
+"# e-com-prototype" 
